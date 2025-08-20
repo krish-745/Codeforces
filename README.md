@@ -18,6 +18,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 353 | [B - Pile Shuffling](https://codeforces.com/contest/2122/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2122/submission/334642067) | `greedy` `math` `*1100` | Aug 20 2025, 14:59 |
 | 352 | [C - Deep Down Below](https://codeforces.com/contest/1561/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1561/submission/334557569) | `binary search` `greedy` `sortings` `*1300` | Aug 19 2025, 21:03 |
 | 351 | [C - Berland Regional](https://codeforces.com/contest/1519/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1519/submission/334546072) | `brute force` `data structures` `greedy` `number theory` `sortings` `*1400` | Aug 19 2025, 19:34 |
 | 350 | [B - Lost Numbers](https://codeforces.com/contest/1167/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1167/submission/334257222) | `brute force` `divide and conquer` `interactive` `math` `*1400` | Aug 17 2025, 17:23 |
