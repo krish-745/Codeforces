@@ -18,6 +18,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 357 | [D - Make It Round](https://codeforces.com/contest/1759/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1759/submission/334797537) | `brute force` `number theory` `*1400` | Aug 21 2025, 18:38 |
+| 356 | [D - Candy Box (easy version)](https://codeforces.com/contest/1183/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1183/submission/334792667) | `greedy` `sortings` `*1400` | Aug 21 2025, 17:57 |
+| 355 | [B - Tape](https://codeforces.com/contest/1110/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1110/submission/334687327) | `greedy` `sortings` `*1400` | Aug 20 2025, 20:57 |
+| 354 | [L - Controllers](https://codeforces.com/contest/1776/problem/L) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1776/submission/334683174) | `binary search` `math` `*1500` | Aug 20 2025, 20:26 |
 | 353 | [B - Pile Shuffling](https://codeforces.com/contest/2122/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2122/submission/334642067) | `greedy` `math` `*1100` | Aug 20 2025, 14:59 |
 | 352 | [C - Deep Down Below](https://codeforces.com/contest/1561/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1561/submission/334557569) | `binary search` `greedy` `sortings` `*1300` | Aug 19 2025, 21:03 |
 | 351 | [C - Berland Regional](https://codeforces.com/contest/1519/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1519/submission/334546072) | `brute force` `data structures` `greedy` `number theory` `sortings` `*1400` | Aug 19 2025, 19:34 |
