@@ -1,0 +1,26 @@
+# Codeforces 1300 Rating Submissions
+
+| # | Title | Solution | Tags | Submitted |
+|:-:|-------|----------|------|-----------|
+| 22 | [C - Deep Down Below](https://codeforces.com/contest/1561/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1561/submission/334557569) | `binary search` `greedy` `sortings` `*1300` | Aug/19/2025 09:03 PM |
+| 21 | [B - Hamiiid, Haaamid... Hamid?](https://codeforces.com/contest/2127/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2127/submission/334051980) | `games` `greedy` `*1300` | Aug/15/2025 04:22 PM |
+| 20 | [E - Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1915/submission/328547805) | `data structures` `greedy` `math` `*1300` | Jul/11/2025 08:50 PM |
+| 19 | [D - Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1927/submission/328504979) | `binary search` `brute force` `data structures` `dp` `dsu` `greedy` `two pointers` `*1300` | Jul/11/2025 03:19 PM |
+| 18 | [D - Divisible Pairs](https://codeforces.com/contest/1931/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1931/submission/328424078) | `combinatorics` `math` `number theory` `*1300` | Jul/10/2025 11:50 PM |
+| 17 | [E - Triple Operations](https://codeforces.com/contest/1999/problem/E) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1999/submission/328344079) | `dp` `implementation` `math` `*1300` | Jul/10/2025 01:46 PM |
+| 16 | [E - Polygon](https://codeforces.com/contest/1360/problem/E) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1360/submission/326004262) | `dp` `graphs` `implementation` `shortest paths` `*1300` | Jun/25/2025 05:32 PM |
+| 15 | [C - Coloring Game](https://codeforces.com/contest/2112/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2112/submission/325921324) | `binary search` `brute force` `greedy` `two pointers` `*1300` | Jun/25/2025 12:21 AM |
+| 14 | [D - 1709](https://codeforces.com/contest/2121/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2121/submission/324975765) | `implementation` `sortings` `*1300` | Jun/18/2025 09:55 AM |
+| 13 | [C - Make It Beautiful](https://codeforces.com/contest/2118/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2118/submission/324224577) | `bitmasks` `data structures` `greedy` `math` `*1300` | Jun/13/2025 03:01 PM |
+| 12 | [C - Chat Ban](https://codeforces.com/contest/1612/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1612/submission/323923287) | `binary search` `math` `*1300` | Jun/11/2025 08:55 PM |
+| 11 | [B - Balanced Tunnel](https://codeforces.com/contest/1237/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1237/submission/323109896) | `data structures` `sortings` `two pointers` `*1300` | Jun/06/2025 03:33 PM |
+| 10 | [B - Revolution-Aryan](https://codeforces.com/contest/613273/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/613273/submission/323047927) | `*1300` | Jun/06/2025 01:01 AM |
+| 9 | [A - Packets](https://codeforces.com/contest/1037/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1037/submission/323047881) | `constructive algorithms` `greedy` `math` `*1300` | Jun/06/2025 01:00 AM |
+| 8 | [B - Omkar and Last Class of Math](https://codeforces.com/contest/1372/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1372/submission/323041084) | `greedy` `math` `number theory` `*1300` | Jun/05/2025 11:45 PM |
+| 7 | [D - Buying Shovels](https://codeforces.com/contest/1360/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1360/submission/322960746) | `math` `number theory` `*1300` | Jun/05/2025 02:06 PM |
+| 6 | [B - Shuffle](https://codeforces.com/contest/1366/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1366/submission/322958567) | `math` `two pointers` `*1300` | Jun/05/2025 01:50 PM |
+| 5 | [B - Most socially-distanced subsequence](https://codeforces.com/contest/1364/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1364/submission/322953756) | `greedy` `two pointers` `*1300` | Jun/05/2025 01:13 PM |
+| 4 | [C - Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1294/submission/322907904) | `greedy` `math` `number theory` `*1300` | Jun/05/2025 01:17 AM |
+| 3 | [B - Gellyfish and Baby's Breath](https://codeforces.com/contest/2116/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2116/submission/322311569) | `greedy` `math` `sortings` `*1300` | Jun/01/2025 12:34 AM |
+| 2 | [E - Interview](https://codeforces.com/contest/1807/problem/E) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1807/submission/319774839) | `binary search` `implementation` `interactive` `*1300` | May/15/2025 06:53 PM |
+| 1 | [C - Mex in the Grid](https://codeforces.com/contest/2102/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2102/submission/319361721) | `constructive algorithms` `*1300` | May/12/2025 04:04 PM |
