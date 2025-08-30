@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 9 | [B - Eastern Exhibition](https://codeforces.com/contest/1486/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1486/submission/336276844) | `binary search` `geometry` `shortest paths` `sortings` `*1500` | Aug/30/2025 08:51 PM |
 | 8 | [L - Controllers](https://codeforces.com/contest/1776/problem/L) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1776/submission/334683174) | `binary search` `math` `*1500` | Aug/20/2025 08:26 PM |
 | 7 | [F - Expected Median](https://codeforces.com/contest/1999/problem/F) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1999/submission/328491325) | `combinatorics` `math` `*1500` | Jul/11/2025 01:46 PM |
 | 6 | [G1 - Ruler (easy version)](https://codeforces.com/contest/1999/problem/G1) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1999/submission/328402221) | `binary search` `interactive` `*1500` | Jul/10/2025 09:01 PM |

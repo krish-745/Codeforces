@@ -2,9 +2,12 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
-| 28 | [B - Pile Shuffling](https://codeforces.com/contest/2122/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2122/submission/334642067) | `greedy` `math` `*1100` | Aug/20/2025 02:59 PM |
-| 27 | [B - Deque Process](https://codeforces.com/contest/2128/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2128/submission/333774519) | `constructive algorithms` `greedy` `sortings` `two pointers` `*1100` | Aug/13/2025 03:02 PM |
-| 26 | [C - Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2125/submission/333752932) | `bitmasks` `combinatorics` `math` `number theory` `*1100` | Aug/13/2025 12:04 PM |
+| 31 | [C - XOR and Triangle](https://codeforces.com/contest/2074/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2074/submission/335942119) | `bitmasks` `brute force` `geometry` `greedy` `probabilities` `*1100` | Aug/28/2025 07:41 PM |
+| 30 | [B - Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1917/submission/335845759) | `brute force` `combinatorics` `data structures` `dp` `strings` `*1100` | Aug/27/2025 11:50 PM |
+| 29 | [B - Pile Shuffling](https://codeforces.com/contest/2122/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2122/submission/334642067) | `greedy` `math` `*1100` | Aug/20/2025 02:59 PM |
+| 28 | [B - Deque Process](https://codeforces.com/contest/2128/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2128/submission/333774519) | `constructive algorithms` `greedy` `sortings` `two pointers` `*1100` | Aug/13/2025 03:02 PM |
+| 27 | [C - Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2125/submission/333752932) | `bitmasks` `combinatorics` `math` `number theory` `*1100` | Aug/13/2025 12:04 PM |
+| 26 | [C - Make it Equal](https://codeforces.com/contest/2131/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2131/submission/333707822) | `math` `number theory` `*1100` | Aug/13/2025 12:30 AM |
 | 25 | [C - I Will Definitely Make It](https://codeforces.com/contest/2126/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2126/submission/333012011) | `greedy` `sortings` `*1100` | Aug/08/2025 06:28 PM |
 | 24 | [D - Slavic's Exam](https://codeforces.com/contest/1999/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1999/submission/328365229) | `greedy` `implementation` `strings` `*1100` | Jul/10/2025 04:30 PM |
 | 23 | [B - Deja Vu](https://codeforces.com/contest/1891/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1891/submission/326681459) | `brute force` `math` `sortings` `*1100` | Jun/30/2025 09:05 PM |

@@ -2,10 +2,15 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
-| 118 | [A - Mix Mex Max](https://codeforces.com/contest/2127/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2127/submission/333780252) | `constructive algorithms` `greedy` `math` `*800` | Aug/13/2025 03:55 PM |
-| 117 | [A - Submission is All You Need](https://codeforces.com/contest/2130/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2130/submission/333777790) | `greedy` `math` `*800` | Aug/13/2025 03:32 PM |
-| 116 | [A - Recycling Center](https://codeforces.com/contest/2128/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2128/submission/333755145) | `greedy` `sortings` `*800` | Aug/13/2025 12:26 PM |
-| 115 | [A - Difficult Contest](https://codeforces.com/contest/2125/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2125/submission/333710691) | `constructive algorithms` `implementation` `sortings` `strings` `*800` | Aug/13/2025 12:59 AM |
+| 123 | [B - Villagers](https://codeforces.com/contest/2133/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2133/submission/335411958) | `greedy` `*800` | Aug/25/2025 12:25 AM |
+| 122 | [A - Redstone?](https://codeforces.com/contest/2133/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2133/submission/335402226) | `brute force` `data structures` `implementation` `math` `*800` | Aug/24/2025 11:10 PM |
+| 121 | [A - Homework](https://codeforces.com/contest/2132/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2132/submission/334955955) | `brute force` `implementation` `strings` `*800` | Aug/22/2025 12:30 AM |
+| 120 | [A - Mix Mex Max](https://codeforces.com/contest/2127/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2127/submission/333780252) | `constructive algorithms` `greedy` `math` `*800` | Aug/13/2025 03:55 PM |
+| 119 | [A - Submission is All You Need](https://codeforces.com/contest/2130/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2130/submission/333777790) | `greedy` `math` `*800` | Aug/13/2025 03:32 PM |
+| 118 | [A - Recycling Center](https://codeforces.com/contest/2128/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2128/submission/333755145) | `greedy` `sortings` `*800` | Aug/13/2025 12:26 PM |
+| 117 | [A - Difficult Contest](https://codeforces.com/contest/2125/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2125/submission/333710691) | `constructive algorithms` `implementation` `sortings` `strings` `*800` | Aug/13/2025 12:59 AM |
+| 116 | [B - Alternating Series](https://codeforces.com/contest/2131/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2131/submission/333299065) | `constructive algorithms` `greedy` `math` `*800` | Aug/10/2025 08:14 PM |
+| 115 | [A - Lever](https://codeforces.com/contest/2131/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2131/submission/333292242) | `math` `*800` | Aug/10/2025 08:10 PM |
 | 114 | [A - Greedy Grid](https://codeforces.com/contest/2122/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2122/submission/333114442) | `constructive algorithms` `greedy` `*800` | Aug/09/2025 02:55 PM |
 | 113 | [B - No Casino in the Mountains](https://codeforces.com/contest/2126/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2126/submission/333007137) | `dp` `greedy` `*800` | Aug/08/2025 05:46 PM |
 | 112 | [A - Only One Digit](https://codeforces.com/contest/2126/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2126/submission/333005218) | `brute force` `implementation` `math` `*800` | Aug/08/2025 05:30 PM |

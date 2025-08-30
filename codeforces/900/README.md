@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 57 | [B - The Secret Number](https://codeforces.com/contest/2132/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2132/submission/334958524) | `math` `*900` | Aug/22/2025 01:02 AM |
 | 56 | [B - Left and Down](https://codeforces.com/contest/2125/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2125/submission/333712482) | `math` `number theory` `*900` | Aug/13/2025 01:19 AM |
 | 55 | [B - 01 Game](https://codeforces.com/contest/1373/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1373/submission/326422595) | `games` `*900` | Jun/28/2025 08:13 PM |
 | 54 | [B - Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1665/submission/326273792) | `constructive algorithms` `greedy` `sortings` `*900` | Jun/27/2025 04:32 PM |

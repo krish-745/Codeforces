@@ -2,16 +2,11 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
-| 33 | [C - The Nether](https://codeforces.com/contest/2133/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2133/submission/335558729) | `graphs` `interactive` | Aug/26/2025 12:24 PM |
-| 32 | [B - Villagers](https://codeforces.com/contest/2133/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2133/submission/335411958) | `greedy` | Aug/25/2025 12:25 AM |
-| 31 | [A - Redstone?](https://codeforces.com/contest/2133/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2133/submission/335402226) | `brute force` `data structures` `implementation` `math` | Aug/24/2025 11:10 PM |
-| 30 | [E - Adjacent XOR](https://codeforces.com/contest/2131/problem/E) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2131/submission/335135651) | `brute force` `greedy` | Aug/23/2025 02:16 PM |
-| 29 | [C1 - The Cunning Seller (easy version)](https://codeforces.com/contest/2132/problem/C1) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2132/submission/335001403) | `greedy` `math` | Aug/22/2025 01:37 PM |
-| 28 | [B - The Secret Number](https://codeforces.com/contest/2132/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2132/submission/334958524) | `math` | Aug/22/2025 01:02 AM |
-| 27 | [A - Homework](https://codeforces.com/contest/2132/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2132/submission/334955955) | `brute force` `implementation` `strings` | Aug/22/2025 12:30 AM |
-| 26 | [C - Make it Equal](https://codeforces.com/contest/2131/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2131/submission/333707822) | `math` `number theory` | Aug/13/2025 12:30 AM |
-| 25 | [B - Alternating Series](https://codeforces.com/contest/2131/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2131/submission/333299065) | `constructive algorithms` `greedy` `math` | Aug/10/2025 08:14 PM |
-| 24 | [A - Lever](https://codeforces.com/contest/2131/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2131/submission/333292242) | `math` | Aug/10/2025 08:10 PM |
+| 28 | [B - Like the Bitset](https://codeforces.com/contest/2136/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2136/submission/335974501) | `constructive algorithms` `greedy` `two pointers` | Aug/28/2025 08:37 PM |
+| 27 | [A - In the Dream](https://codeforces.com/contest/2136/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2136/submission/335947471) | `greedy` `math` | Aug/28/2025 08:10 PM |
+| 26 | [B - Add 0 or K](https://codeforces.com/contest/2134/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2134/submission/335777684) | `constructive algorithms` `math` `number theory` | Aug/27/2025 02:35 PM |
+| 25 | [C - Even Larger](https://codeforces.com/contest/2134/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2134/submission/335761215) | `brute force` `greedy` `implementation` | Aug/27/2025 12:16 PM |
+| 24 | [A - Painting With Two Colors](https://codeforces.com/contest/2134/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2134/submission/335757134) | `constructive algorithms` `implementation` `math` | Aug/27/2025 11:37 AM |
 | 23 | [J - Proglute](https://codeforces.com/contest/616203/problem/J) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/616203/submission/324556691) |  | Jun/15/2025 10:58 PM |
 | 22 | [I - Natatorium](https://codeforces.com/contest/616203/problem/I) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/616203/submission/324550519) |  | Jun/15/2025 09:58 PM |
 | 21 | [1 - Guess the Number](https://codeforces.com/contest/101021/problem/1) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/101021/submission/319546369) |  | May/13/2025 10:13 PM |

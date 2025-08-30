@@ -2,9 +2,10 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
-| 42 | [A - Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1362/submission/335050258) | `implementation` `*1000` | Aug/22/2025 08:16 PM |
-| 41 | [B - Numbers Box](https://codeforces.com/contest/1447/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1447/submission/335046136) | `greedy` `math` `*1000` | Aug/22/2025 07:45 PM |
-| 40 | [B - Different Divisors](https://codeforces.com/contest/1474/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1474/submission/335005074) | `binary search` `constructive algorithms` `greedy` `math` `number theory` `*1000` | Aug/22/2025 02:09 PM |
+| 43 | [A - Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1362/submission/335050258) | `implementation` `*1000` | Aug/22/2025 08:16 PM |
+| 42 | [B - Numbers Box](https://codeforces.com/contest/1447/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1447/submission/335046136) | `greedy` `math` `*1000` | Aug/22/2025 07:45 PM |
+| 41 | [B - Different Divisors](https://codeforces.com/contest/1474/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1474/submission/335005074) | `binary search` `constructive algorithms` `greedy` `math` `number theory` `*1000` | Aug/22/2025 02:09 PM |
+| 40 | [C1 - The Cunning Seller (easy version)](https://codeforces.com/contest/2132/problem/C1) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2132/submission/335001403) | `greedy` `math` `*1000` | Aug/22/2025 01:37 PM |
 | 39 | [B - Two Divisors](https://codeforces.com/contest/1916/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1916/submission/328572904) | `constructive algorithms` `math` `number theory` `*1000` | Jul/12/2025 12:25 AM |
 | 38 | [B - Card Game](https://codeforces.com/contest/1999/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1999/submission/328360619) | `brute force` `constructive algorithms` `implementation` `*1000` | Jul/10/2025 03:48 PM |
 | 37 | [B - Minimise Sum](https://codeforces.com/contest/2124/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2124/submission/328106047) | `greedy` `*1000` | Jul/08/2025 08:07 PM |

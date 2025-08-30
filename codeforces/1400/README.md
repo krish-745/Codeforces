@@ -2,6 +2,9 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 25 | [C - Guess the Array](https://codeforces.com/contest/727/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/727/submission/336242796) | `constructive algorithms` `interactive` `math` `*1400` | Aug/30/2025 04:01 PM |
+| 24 | [C - The Nether](https://codeforces.com/contest/2133/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2133/submission/335558729) | `graphs` `interactive` `*1400` | Aug/26/2025 12:24 PM |
+| 23 | [E - Adjacent XOR](https://codeforces.com/contest/2131/problem/E) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2131/submission/335135651) | `brute force` `greedy` `*1400` | Aug/23/2025 02:16 PM |
 | 22 | [D - Make It Round](https://codeforces.com/contest/1759/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1759/submission/334797537) | `brute force` `number theory` `*1400` | Aug/21/2025 06:38 PM |
 | 21 | [D - Candy Box (easy version)](https://codeforces.com/contest/1183/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1183/submission/334792667) | `greedy` `sortings` `*1400` | Aug/21/2025 05:57 PM |
 | 20 | [B - Tape](https://codeforces.com/contest/1110/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1110/submission/334687327) | `greedy` `sortings` `*1400` | Aug/20/2025 08:57 PM |
