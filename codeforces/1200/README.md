@@ -2,6 +2,12 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 38 | [D - Replace with Occurrences](https://codeforces.com/contest/2137/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2137/submission/341108574) | `constructive algorithms` `*1200` | Sep/30/2025 12:18 AM |
+| 37 | [E - Split](https://codeforces.com/contest/2148/problem/E) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2148/submission/340862266) | `binary search` `data structures` `two pointers` `*1200` | Sep/28/2025 02:08 PM |
+| 36 | [B - AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1514/submission/336531881) | `bitmasks` `combinatorics` `math` `*1200` | Sep/01/2025 10:10 PM |
+| 35 | [B - Rock and Lever](https://codeforces.com/contest/1420/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1420/submission/336427524) | `bitmasks` `math` `*1200` | Sep/01/2025 01:03 AM |
+| 34 | [B - Add 0 or K](https://codeforces.com/contest/2134/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2134/submission/335777684) | `constructive algorithms` `math` `number theory` `*1200` | Aug/27/2025 02:35 PM |
+| 33 | [C - Even Larger](https://codeforces.com/contest/2134/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2134/submission/335761215) | `brute force` `greedy` `implementation` `*1200` | Aug/27/2025 12:16 PM |
 | 32 | [C - Leftmost Below](https://codeforces.com/contest/2128/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2128/submission/333776543) | `greedy` `math` `*1200` | Aug/13/2025 03:21 PM |
 | 31 | [D - This Is the Last Time](https://codeforces.com/contest/2126/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2126/submission/333094074) | `data structures` `greedy` `sortings` `*1200` | Aug/09/2025 11:58 AM |
 | 30 | [C - Training Before the Olympiad](https://codeforces.com/contest/1916/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1916/submission/329103845) | `constructive algorithms` `games` `greedy` `implementation` `math` `*1200` | Jul/16/2025 12:14 AM |

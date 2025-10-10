@@ -2,6 +2,10 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 61 | [B - Another Divisibility Problem](https://codeforces.com/contest/2140/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2140/submission/341899161) | `constructive algorithms` `math` `number theory` `*900` | Oct/04/2025 11:47 PM |
+| 60 | [B - Fun Permutation](https://codeforces.com/contest/2137/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2137/submission/340895010) | `constructive algorithms` `math` `number theory` `*900` | Sep/28/2025 06:02 PM |
+| 59 | [C - Pacer](https://codeforces.com/contest/2148/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2148/submission/339620731) | `greedy` `math` `*900` | Sep/21/2025 01:19 AM |
+| 58 | [B - Like the Bitset](https://codeforces.com/contest/2136/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2136/submission/335974501) | `constructive algorithms` `greedy` `two pointers` `*900` | Aug/28/2025 08:37 PM |
 | 57 | [B - The Secret Number](https://codeforces.com/contest/2132/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2132/submission/334958524) | `math` `*900` | Aug/22/2025 01:02 AM |
 | 56 | [B - Left and Down](https://codeforces.com/contest/2125/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2125/submission/333712482) | `math` `number theory` `*900` | Aug/13/2025 01:19 AM |
 | 55 | [B - 01 Game](https://codeforces.com/contest/1373/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1373/submission/326422595) | `games` `*900` | Jun/28/2025 08:13 PM |

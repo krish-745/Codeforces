@@ -2,6 +2,11 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 48 | [B - Multiple Construction](https://codeforces.com/contest/2147/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2147/submission/342604343) | `constructive algorithms` `*1000` | Oct/08/2025 07:47 PM |
+| 47 | [B - Discounts](https://codeforces.com/contest/2143/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2143/submission/342545179) | `greedy` `sortings` `two pointers` `*1000` | Oct/08/2025 12:14 PM |
+| 46 | [B - Maximum Cost Permutation](https://codeforces.com/contest/2144/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2144/submission/342503708) | `constructive algorithms` `greedy` `*1000` | Oct/08/2025 01:16 AM |
+| 45 | [D - Destruction of the Dandelion Fields](https://codeforces.com/contest/2148/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2148/submission/339622709) | `constructive algorithms` `greedy` `sortings` `*1000` | Sep/21/2025 01:37 AM |
+| 44 | [B - Roof Construction](https://codeforces.com/contest/1632/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1632/submission/336913124) | `bitmasks` `constructive algorithms` `*1000` | Sep/04/2025 11:49 PM |
 | 43 | [A - Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1362/submission/335050258) | `implementation` `*1000` | Aug/22/2025 08:16 PM |
 | 42 | [B - Numbers Box](https://codeforces.com/contest/1447/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1447/submission/335046136) | `greedy` `math` `*1000` | Aug/22/2025 07:45 PM |
 | 41 | [B - Different Divisors](https://codeforces.com/contest/1474/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1474/submission/335005074) | `binary search` `constructive algorithms` `greedy` `math` `number theory` `*1000` | Aug/22/2025 02:09 PM |

@@ -2,6 +2,10 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 35 | [B - Merging the Sets](https://codeforces.com/contest/2146/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2146/submission/342813065) | `greedy` `implementation` `*1100` | Oct/10/2025 12:59 AM |
+| 34 | [C - Cake Assignment](https://codeforces.com/contest/2139/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2139/submission/341894054) | `bitmasks` `constructive algorithms` `greedy` `*1100` | Oct/04/2025 11:11 PM |
+| 33 | [C - Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2137/submission/340902972) | `brute force` `greedy` `implementation` `math` `*1100` | Sep/28/2025 07:00 PM |
+| 32 | [B - Fedor and New Game](https://codeforces.com/contest/467/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/467/submission/336527177) | `bitmasks` `brute force` `constructive algorithms` `implementation` `*1100` | Sep/01/2025 09:32 PM |
 | 31 | [C - XOR and Triangle](https://codeforces.com/contest/2074/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2074/submission/335942119) | `bitmasks` `brute force` `geometry` `greedy` `probabilities` `*1100` | Aug/28/2025 07:41 PM |
 | 30 | [B - Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1917/submission/335845759) | `brute force` `combinatorics` `data structures` `dp` `strings` `*1100` | Aug/27/2025 11:50 PM |
 | 29 | [B - Pile Shuffling](https://codeforces.com/contest/2122/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2122/submission/334642067) | `greedy` `math` `*1100` | Aug/20/2025 02:59 PM |

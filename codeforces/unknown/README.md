@@ -2,11 +2,6 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
-| 28 | [B - Like the Bitset](https://codeforces.com/contest/2136/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2136/submission/335974501) | `constructive algorithms` `greedy` `two pointers` | Aug/28/2025 08:37 PM |
-| 27 | [A - In the Dream](https://codeforces.com/contest/2136/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2136/submission/335947471) | `greedy` `math` | Aug/28/2025 08:10 PM |
-| 26 | [B - Add 0 or K](https://codeforces.com/contest/2134/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2134/submission/335777684) | `constructive algorithms` `math` `number theory` | Aug/27/2025 02:35 PM |
-| 25 | [C - Even Larger](https://codeforces.com/contest/2134/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2134/submission/335761215) | `brute force` `greedy` `implementation` | Aug/27/2025 12:16 PM |
-| 24 | [A - Painting With Two Colors](https://codeforces.com/contest/2134/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2134/submission/335757134) | `constructive algorithms` `implementation` `math` | Aug/27/2025 11:37 AM |
 | 23 | [J - Proglute](https://codeforces.com/contest/616203/problem/J) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/616203/submission/324556691) |  | Jun/15/2025 10:58 PM |
 | 22 | [I - Natatorium](https://codeforces.com/contest/616203/problem/I) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/616203/submission/324550519) |  | Jun/15/2025 09:58 PM |
 | 21 | [1 - Guess the Number](https://codeforces.com/contest/101021/problem/1) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/101021/submission/319546369) |  | May/13/2025 10:13 PM |
