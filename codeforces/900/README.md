@@ -2,6 +2,9 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 64 | [B - XOR = Average](https://codeforces.com/contest/1758/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1758/submission/346586806) | `constructive algorithms` `*900` | Oct/30/2025 01:17 PM |
+| 63 | [A - Lunch Rush](https://codeforces.com/contest/276/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/276/submission/346520693) | `implementation` `*900` | Oct/30/2025 12:05 AM |
+| 62 | [C - MEX rose](https://codeforces.com/contest/2149/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2149/submission/343245755) | `greedy` `*900` | Oct/12/2025 01:13 PM |
 | 61 | [B - Another Divisibility Problem](https://codeforces.com/contest/2140/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2140/submission/341899161) | `constructive algorithms` `math` `number theory` `*900` | Oct/04/2025 11:47 PM |
 | 60 | [B - Fun Permutation](https://codeforces.com/contest/2137/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2137/submission/340895010) | `constructive algorithms` `math` `number theory` `*900` | Sep/28/2025 06:02 PM |
 | 59 | [C - Pacer](https://codeforces.com/contest/2148/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2148/submission/339620731) | `greedy` `math` `*900` | Sep/21/2025 01:19 AM |

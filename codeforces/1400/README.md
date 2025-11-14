@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 26 | [C1 - No Cost Too Great (Easy Version)](https://codeforces.com/contest/2154/problem/C1) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2154/submission/344933678) | `greedy` `implementation` `math` `number theory` `*1400` | Oct/21/2025 01:13 AM |
 | 25 | [C - Guess the Array](https://codeforces.com/contest/727/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/727/submission/336242796) | `constructive algorithms` `interactive` `math` `*1400` | Aug/30/2025 04:01 PM |
 | 24 | [C - The Nether](https://codeforces.com/contest/2133/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2133/submission/335558729) | `graphs` `interactive` `*1400` | Aug/26/2025 12:24 PM |
 | 23 | [E - Adjacent XOR](https://codeforces.com/contest/2131/problem/E) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2131/submission/335135651) | `brute force` `greedy` `*1400` | Aug/23/2025 02:16 PM |

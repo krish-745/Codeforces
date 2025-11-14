@@ -2,6 +2,14 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 43 | [B - Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1788/submission/346643955) | `constructive algorithms` `greedy` `implementation` `math` `probabilities` `*1100` | Oct/30/2025 07:38 PM |
+| 42 | [B - Proper Nutrition](https://codeforces.com/contest/898/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/898/submission/346590677) | `brute force` `implementation` `number theory` `*1100` | Oct/30/2025 01:48 PM |
+| 41 | [B - Unlucky Ticket](https://codeforces.com/contest/160/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/160/submission/346523948) | `greedy` `sortings` `*1100` | Oct/30/2025 12:31 AM |
+| 40 | [B - Combination](https://codeforces.com/contest/155/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/155/submission/346519100) | `greedy` `sortings` `*1100` | Oct/29/2025 11:54 PM |
+| 39 | [C1 - Skibidus and Fanum Tax (easy version)](https://codeforces.com/contest/2065/problem/C1) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2065/submission/346077751) | `binary search` `dp` `greedy` `*1100` | Oct/28/2025 12:57 AM |
+| 38 | [B - Abraham's Great Escape](https://codeforces.com/contest/2155/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2155/submission/345092624) | `constructive algorithms` `graphs` `*1100` | Oct/22/2025 01:36 AM |
+| 37 | [C - Beautiful XOR](https://codeforces.com/contest/2162/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2162/submission/344393177) | `bitmasks` `constructive algorithms` `greedy` `*1100` | Oct/18/2025 12:45 AM |
+| 36 | [B - Distinct Elements](https://codeforces.com/contest/2160/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2160/submission/343834871) | `greedy` `math` `*1100` | Oct/15/2025 02:44 PM |
 | 35 | [B - Merging the Sets](https://codeforces.com/contest/2146/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2146/submission/342813065) | `greedy` `implementation` `*1100` | Oct/10/2025 12:59 AM |
 | 34 | [C - Cake Assignment](https://codeforces.com/contest/2139/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2139/submission/341894054) | `bitmasks` `constructive algorithms` `greedy` `*1100` | Oct/04/2025 11:11 PM |
 | 33 | [C - Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2137/submission/340902972) | `brute force` `greedy` `implementation` `math` `*1100` | Sep/28/2025 07:00 PM |

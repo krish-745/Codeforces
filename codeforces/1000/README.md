@@ -2,6 +2,12 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 54 | [B - Permutation](https://codeforces.com/contest/137/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/137/submission/346520148) | `greedy` `*1000` | Oct/30/2025 12:01 AM |
+| 53 | [B - Strange Machine](https://codeforces.com/contest/2156/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2156/submission/346491858) | `binary search` `brute force` `greedy` `implementation` `*1000` | Oct/29/2025 09:19 PM |
+| 52 | [D - Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2167/submission/346314018) | `brute force` `implementation` `math` `number theory` `*1000` | Oct/28/2025 09:30 PM |
+| 51 | [B - Deck of Cards](https://codeforces.com/contest/2145/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2145/submission/345159307) | `greedy` `implementation` `*1000` | Oct/22/2025 03:27 PM |
+| 50 | [B - Make it Zigzag](https://codeforces.com/contest/2154/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2154/submission/344926264) | `constructive algorithms` `greedy` `*1000` | Oct/21/2025 12:36 AM |
+| 49 | [B - Beautiful String](https://codeforces.com/contest/2162/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2162/submission/344385713) | `brute force` `constructive algorithms` `*1000` | Oct/17/2025 11:57 PM |
 | 48 | [B - Multiple Construction](https://codeforces.com/contest/2147/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2147/submission/342604343) | `constructive algorithms` `*1000` | Oct/08/2025 07:47 PM |
 | 47 | [B - Discounts](https://codeforces.com/contest/2143/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2143/submission/342545179) | `greedy` `sortings` `two pointers` `*1000` | Oct/08/2025 12:14 PM |
 | 46 | [B - Maximum Cost Permutation](https://codeforces.com/contest/2144/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2144/submission/342503708) | `constructive algorithms` `greedy` `*1000` | Oct/08/2025 01:16 AM |

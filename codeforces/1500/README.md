@@ -2,6 +2,13 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 17 | [F - Smaller](https://codeforces.com/contest/1742/problem/F) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1742/submission/347263326) | `constructive algorithms` `greedy` `strings` `*1500` | Nov/03/2025 07:38 PM |
+| 16 | [C - Omkar and Baseball](https://codeforces.com/contest/1372/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1372/submission/347210042) | `constructive algorithms` `math` `*1500` | Nov/03/2025 01:05 PM |
+| 15 | [C - Line Empire](https://codeforces.com/contest/1659/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1659/submission/345986737) | `binary search` `brute force` `dp` `greedy` `implementation` `math` `*1500` | Oct/27/2025 02:12 PM |
+| 14 | [C - Tea Tasting](https://codeforces.com/contest/1795/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1795/submission/345980898) | `binary search` `data structures` `implementation` `*1500` | Oct/27/2025 01:12 PM |
+| 13 | [C - Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1891/submission/345942855) | `binary search` `constructive algorithms` `greedy` `sortings` `two pointers` `*1500` | Oct/27/2025 01:53 AM |
+| 12 | [F - Greetings](https://codeforces.com/contest/1915/problem/F) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1915/submission/345938108) | `data structures` `divide and conquer` `sortings` `*1500` | Oct/27/2025 01:10 AM |
+| 11 | [C - Symmetrical Polygons](https://codeforces.com/contest/2153/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2153/submission/343141960) | `constructive algorithms` `geometry` `greedy` `implementation` `sortings` `*1500` | Oct/11/2025 06:51 PM |
 | 10 | [A - Balanced Bitstring](https://codeforces.com/contest/1404/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1404/submission/336279828) | `implementation` `strings` `*1500` | Aug/30/2025 09:17 PM |
 | 9 | [B - Eastern Exhibition](https://codeforces.com/contest/1486/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1486/submission/336276844) | `binary search` `geometry` `shortest paths` `sortings` `*1500` | Aug/30/2025 08:51 PM |
 | 8 | [L - Controllers](https://codeforces.com/contest/1776/problem/L) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1776/submission/334683174) | `binary search` `math` `*1500` | Aug/20/2025 08:26 PM |

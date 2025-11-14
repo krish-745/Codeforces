@@ -2,6 +2,14 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 31 | [D2 - Diadrash (Hard Version)](https://codeforces.com/contest/2163/problem/D2) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2163/submission/348657740) | `binary search` `interactive` `math` `sortings` | Nov/12/2025 11:35 PM |
+| 30 | [D1 - Diadrash (Easy Version)](https://codeforces.com/contest/2163/problem/D1) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2163/submission/348650766) | `binary search` `brute force` `divide and conquer` `implementation` `interactive` | Nov/12/2025 10:39 PM |
+| 29 | [C - Monopati](https://codeforces.com/contest/2163/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2163/submission/348453997) | `brute force` `combinatorics` `dp` `math` `two pointers` | Nov/11/2025 03:51 PM |
+| 28 | [B - Siga ta Kymata](https://codeforces.com/contest/2163/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2163/submission/348345535) | `constructive algorithms` `greedy` `implementation` `math` | Nov/10/2025 09:48 PM |
+| 27 | [A - Souvlaki VS. Kalamaki](https://codeforces.com/contest/2163/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2163/submission/348307330) | `brute force` `math` `sortings` | Nov/10/2025 08:45 PM |
+| 26 | [A - Sequence Game](https://codeforces.com/contest/2164/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2164/submission/347845798) | `brute force` `sortings` | Nov/07/2025 01:49 PM |
+| 25 | [A2 - Encode and Decode (Hard Version)](https://codeforces.com/contest/2168/problem/A2) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2168/submission/347415234) | `bitmasks` `interactive` `math` | Nov/04/2025 08:00 PM |
+| 24 | [A1 - Encode and Decode (Easy Version)](https://codeforces.com/contest/2168/problem/A1) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2168/submission/347268627) | `constructive algorithms` `interactive` | Nov/03/2025 08:11 PM |
 | 23 | [J - Proglute](https://codeforces.com/contest/616203/problem/J) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/616203/submission/324556691) |  | Jun/15/2025 10:58 PM |
 | 22 | [I - Natatorium](https://codeforces.com/contest/616203/problem/I) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/616203/submission/324550519) |  | Jun/15/2025 09:58 PM |
 | 21 | [1 - Guess the Number](https://codeforces.com/contest/101021/problem/1) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/101021/submission/319546369) |  | May/13/2025 10:13 PM |

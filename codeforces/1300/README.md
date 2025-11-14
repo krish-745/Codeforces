@@ -2,6 +2,14 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 30 | [B - Archer](https://codeforces.com/contest/312/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/312/submission/346637558) | `math` `probabilities` `*1300` | Oct/30/2025 07:03 PM |
+| 29 | [F - Pacifist frogs](https://codeforces.com/contest/39/problem/F) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/39/submission/346526022) | `implementation` `*1300` | Oct/30/2025 12:50 AM |
+| 28 | [C2 - Skibidus and Fanum Tax (hard version)](https://codeforces.com/contest/2065/problem/C2) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2065/submission/346505472) | `binary search` `greedy` `*1300` | Oct/29/2025 10:32 PM |
+| 27 | [E1 - Rudolf and Snowflakes (simple version)](https://codeforces.com/contest/1846/problem/E1) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1846/submission/345929377) | `brute force` `implementation` `math` `*1300` | Oct/26/2025 11:45 PM |
+| 26 | [D - Divide and Equalize](https://codeforces.com/contest/1881/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1881/submission/345519986) | `math` `number theory` `*1300` | Oct/24/2025 07:40 PM |
+| 25 | [B - Catching the Krug](https://codeforces.com/contest/2152/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2152/submission/345006295) | `games` `*1300` | Oct/21/2025 04:11 PM |
+| 24 | [B - Incremental Path](https://codeforces.com/contest/2151/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2151/submission/342909745) | `implementation` `*1300` | Oct/10/2025 06:55 PM |
+| 23 | [C - Wrong Binary Search](https://codeforces.com/contest/2146/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2146/submission/342906885) | `binary search` `constructive algorithms` `*1300` | Oct/10/2025 06:33 PM |
 | 22 | [C - Deep Down Below](https://codeforces.com/contest/1561/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1561/submission/334557569) | `binary search` `greedy` `sortings` `*1300` | Aug/19/2025 09:03 PM |
 | 21 | [B - Hamiiid, Haaamid... Hamid?](https://codeforces.com/contest/2127/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2127/submission/334051980) | `games` `greedy` `*1300` | Aug/15/2025 04:22 PM |
 | 20 | [E - Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1915/submission/328547805) | `data structures` `greedy` `math` `*1300` | Jul/11/2025 08:50 PM |

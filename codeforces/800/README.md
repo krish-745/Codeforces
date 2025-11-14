@@ -2,6 +2,26 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 156 | [A - Round Trip](https://codeforces.com/contest/2161/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2161/submission/346783663) | `games` `greedy` `implementation` `math` `*800` | Oct/31/2025 01:04 PM |
+| 155 | [A - MEXanized Array](https://codeforces.com/contest/1870/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1870/submission/346527513) | `constructive algorithms` `greedy` `math` `*800` | Oct/30/2025 01:04 AM |
+| 154 | [C - Can I Square?](https://codeforces.com/contest/1915/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1915/submission/346527016) | `binary search` `implementation` `*800` | Oct/30/2025 12:59 AM |
+| 153 | [C - Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2167/submission/346212007) | `constructive algorithms` `greedy` `implementation` `sortings` `*800` | Oct/28/2025 08:12 PM |
+| 152 | [B - Your Name](https://codeforces.com/contest/2167/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2167/submission/346199528) | `sortings` `strings` `*800` | Oct/28/2025 08:09 PM |
+| 151 | [A - Square?](https://codeforces.com/contest/2167/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2167/submission/346183699) | `math` `sortings` `*800` | Oct/28/2025 08:06 PM |
+| 150 | [B - Skibidus and Ohio](https://codeforces.com/contest/2065/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2065/submission/346069737) | `strings` `*800` | Oct/27/2025 11:50 PM |
+| 149 | [A - Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2065/submission/346068746) | `brute force` `constructive algorithms` `greedy` `implementation` `strings` `*800` | Oct/27/2025 11:43 PM |
+| 148 | [A - Pizza Time](https://codeforces.com/contest/2156/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2156/submission/345526063) | `brute force` `constructive algorithms` `greedy` `*800` | Oct/24/2025 08:08 PM |
+| 147 | [A - Permutation Warm-Up](https://codeforces.com/contest/2108/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2108/submission/345409356) | `combinatorics` `greedy` `math` `*800` | Oct/24/2025 01:07 AM |
+| 146 | [A - Candies for Nephews](https://codeforces.com/contest/2145/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2145/submission/345152031) | `math` `*800` | Oct/22/2025 02:36 PM |
+| 145 | [A - El fucho](https://codeforces.com/contest/2155/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2155/submission/345090261) | `implementation` `math` `*800` | Oct/22/2025 01:11 AM |
+| 144 | [A - Increase or Smash](https://codeforces.com/contest/2152/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2152/submission/344999645) | `greedy` `implementation` `*800` | Oct/21/2025 03:19 PM |
+| 143 | [A - Notelock](https://codeforces.com/contest/2154/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2154/submission/344922276) | `greedy` `two pointers` `*800` | Oct/21/2025 12:00 AM |
+| 142 | [A - Beautiful Average](https://codeforces.com/contest/2162/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2162/submission/344384794) | `brute force` `greedy` `*800` | Oct/17/2025 11:51 PM |
+| 141 | [A - MEX Partition](https://codeforces.com/contest/2160/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2160/submission/343419199) | `math` `*800` | Oct/13/2025 12:34 AM |
+| 140 | [B - Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2149/submission/343239668) | `greedy` `sortings` `*800` | Oct/12/2025 12:28 PM |
+| 139 | [A - Be Positive](https://codeforces.com/contest/2149/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2149/submission/343237207) | `math` `*800` | Oct/12/2025 12:09 PM |
+| 138 | [B - Bitwise Reversion](https://codeforces.com/contest/2153/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2153/submission/342947254) | `bitmasks` `greedy` `*800` | Oct/10/2025 08:25 PM |
+| 137 | [A - Circle of Apple Trees](https://codeforces.com/contest/2153/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2153/submission/342925085) | `greedy` `sortings` `*800` | Oct/10/2025 08:08 PM |
 | 136 | [A - Incremental Subarray](https://codeforces.com/contest/2151/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2151/submission/342866992) | `math` `strings` `*800` | Oct/10/2025 01:44 PM |
 | 135 | [A - Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2146/submission/342779410) | `brute force` `greedy` `implementation` `*800` | Oct/09/2025 08:56 PM |
 | 134 | [A - Shortest Increasing Path](https://codeforces.com/contest/2147/problem/A) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2147/submission/342599678) | `constructive algorithms` `greedy` `*800` | Oct/08/2025 07:18 PM |

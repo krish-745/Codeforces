@@ -2,6 +2,9 @@
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 41 | [C - Loyalty](https://codeforces.com/contest/2161/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2161/submission/346789554) | `constructive algorithms` `greedy` `sortings` `two pointers` `*1200` | Oct/31/2025 01:56 PM |
+| 40 | [D - Skibidus and Sigma](https://codeforces.com/contest/2065/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2065/submission/346073492) | `greedy` `sortings` `*1200` | Oct/28/2025 12:18 AM |
+| 39 | [D - A and B](https://codeforces.com/contest/2149/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2149/submission/344065384) | `strings` `*1200` | Oct/16/2025 10:23 PM |
 | 38 | [D - Replace with Occurrences](https://codeforces.com/contest/2137/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2137/submission/341108574) | `constructive algorithms` `*1200` | Sep/30/2025 12:18 AM |
 | 37 | [E - Split](https://codeforces.com/contest/2148/problem/E) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2148/submission/340862266) | `binary search` `data structures` `two pointers` `*1200` | Sep/28/2025 02:08 PM |
 | 36 | [B - AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/1514/submission/336531881) | `bitmasks` `combinatorics` `math` `*1200` | Sep/01/2025 10:10 PM |
